@@ -1,0 +1,10 @@
+/*
+theme: ThemeData(
+        primaryColor: Colors.black,
+        buttonTheme: ButtonThemeData(
+          buttonColor: Colors.black,
+          textTheme: ButtonTextTheme.primary,
+        ),
+      ),
+      theme: ThemeData(primaryColor: Colors.black,),
+*/

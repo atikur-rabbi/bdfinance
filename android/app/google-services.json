@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "1040055093294",
+    "firebase_url": "https://espiot-6aa18.firebaseio.com",
+    "project_id": "espiot-6aa18",
+    "storage_bucket": "espiot-6aa18.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1040055093294:android:731e9e9eecd85f2057f7bf",
+        "android_client_info": {
+          "package_name": "com.we2app.bdfinance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1040055093294-jccmcm57ae60lnrpvedamcidn4blhb8h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.we2app.bdfinance",
+            "certificate_hash": "c53ba07c6400dbec6b07a22d4197777fa25d6e93"
+          }
+        },
+        {
+          "client_id": "1040055093294-bnui9nfcbic3hj9h7rrne5r55spg8itb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWDhuUrfJ2eMwId7OHLIhQlB-dUwNTjkA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1040055093294-bnui9nfcbic3hj9h7rrne5r55spg8itb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1040055093294-bjkaehkkto6sgn4mts3dm78lutiri863.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.we2app.espiot"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1040055093294:android:4b6a2a3ccc584d4a57f7bf",
+        "android_client_info": {
+          "package_name": "com.we2app.espiot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1040055093294-msehd2k0ckte2ad01r6qolmv6a655mai.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.we2app.espiot",
+            "certificate_hash": "139fab67847b05e4b0bcd0713e25e02c02030898"
+          }
+        },
+        {
+          "client_id": "1040055093294-bnui9nfcbic3hj9h7rrne5r55spg8itb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWDhuUrfJ2eMwId7OHLIhQlB-dUwNTjkA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1040055093294-bnui9nfcbic3hj9h7rrne5r55spg8itb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1040055093294-bjkaehkkto6sgn4mts3dm78lutiri863.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.we2app.espiot"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

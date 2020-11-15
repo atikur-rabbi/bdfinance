@@ -1,0 +1,33 @@
+name: bdfinance
+description: A new Flutter project.
+publish_to: 'none' 
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  google_fonts: ^0.3.5
+  firebase_auth: 0.8.1
+  # cuberto_bottom_bar: ^1.1.2+3
+  gradient_app_bar: ^0.1.3
+  font_awesome_flutter: ^8.10.0
+  cloud_firestore:
+  flutter_datetime_picker: 
+  image_picker:  
+  file_picker: ^1.1.1  
+  firebase_storage:
+  timeline_tile:
+  #timeline_list: ^0.0.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+flutter:
+  uses-material-design: true
+  assets:
+    - images/
+    - images/users/
+
